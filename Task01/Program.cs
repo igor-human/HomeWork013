@@ -8,7 +8,7 @@ class Program
     static void Main()
     {
         // Установите размеры консоли (можно подстроить под ваш экран)
-        Console.SetWindowSize(80, 30);
+        Console.SetWindowSize(100, 30);
         Console.CursorVisible = false;
 
         while (true)
